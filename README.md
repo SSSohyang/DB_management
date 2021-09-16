@@ -1,2 +1,2 @@
 # DB_management
-pymysql을 이용하여 DB에 저장, 수정, 추출 등의 연구를 수행
+python 및 sql을 이용하여 DB에 저장, 수집, 전처리등의 연구를 수행
